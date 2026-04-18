@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# Misc
+.DS_Store
