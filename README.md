@@ -1,4 +1,4 @@
-![Balatro Banner](balatro-banner.png)
+![Balatro Banner](banner.jpg)
 
 # Simulating Balatro
 
